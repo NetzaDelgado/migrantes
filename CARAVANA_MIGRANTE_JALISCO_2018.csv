@@ -1,5 +1,5 @@
-#Paciente,Nacionalidad,Codigo_Pais,Genero,Codigo_Genero,Edad,Pediatricos,Menores <5años,Ancianos,Requiere Atención Médica
-1,Honduras,9,Adulto Hombre,1,17,1,0,0,No
+#Paciente,Nacionalidad,Codigo_Pais,Genero,Codigo_Genero,Edad,Pediatricos,Menores <5aÃ±os,Ancianos,Requiere AtenciÃ³n MÃ©dica
+1,Honduras,9,Menor Hombre,2,17,1,0,0,No
 2,Honduras,9,Adulto Hombre,1,23,0,0,0,No
 3,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 4,Honduras,9,Adulto Hombre,1,29,0,0,0,No
@@ -269,7 +269,7 @@
 268,Honduras,9,Adulto Hombre,1,19,0,0,0,No
 269,Honduras,9,Mujer Adulto,3,29,0,0,0,No
 270,Honduras,9,Adulto Hombre,1,29,0,0,0,No
-271,México,10,Menor Hombre,2,14,1,0,0,No
+271,MÃ©xico,10,Menor Hombre,2,14,1,0,0,No
 272,Nicaragua,11,Adulto Hombre,1,21,0,0,0,No
 273,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 274,Nicaragua,11,Adulto Hombre,1,24,0,0,0,No
@@ -479,7 +479,7 @@
 478,Guatemala,8,Mujer Menor,4,4,1,1,0,Gastritis
 479,Honduras,9,Mujer Adulto,3,41,0,0,0,No
 480,El Salvador,7,Mujer Adulto,3,19,0,0,0,Infeccion de vias respiratorias
-481,Honduras,9,Mujer Adulto,3,33,0,0,0,Migraña
+481,Honduras,9,Mujer Adulto,3,33,0,0,0,MigraÃ±a
 482,Honduras,9,Mujer Adulto,3,23,0,0,0,Infeccion de vias respiratorias
 483,Honduras,9,Mujer Adulto,3,45,0,0,0,No
 484,Honduras,9,Mujer Adulto,3,19,0,0,0,No
@@ -527,7 +527,7 @@
 526,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 527,Honduras,9,Adulto Hombre,1,19,0,0,0,No
 528,Honduras,9,Adulto Hombre,1,18,1,0,0,No
-529,México,10,Adulto Hombre,1,25,0,0,0,No
+529,MÃ©xico,10,Adulto Hombre,1,25,0,0,0,No
 530,Honduras,9,Adulto Hombre,1,38,0,0,0,Lumbalgia
 531,Honduras,9,Adulto Hombre,1,44,0,0,0,Infeccion de vias respiratorias
 532,Honduras,9,Mujer Adulto,3,29,0,0,0,No
@@ -558,7 +558,7 @@
 557,Honduras,9,Adulto Hombre,1,24,0,0,0,Infeccion de vias respiratorias
 558,El Salvador,7,Adulto Hombre,1,25,0,0,0,No
 559,Honduras,9,Adulto Hombre,1,25,0,0,0,Dolor Odontologico
-560,Honduras,9,Adulto Hombre,1,22,0,0,0,Migraña
+560,Honduras,9,Adulto Hombre,1,22,0,0,0,MigraÃ±a
 561,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 562,Honduras,9,Mujer Adulto,3,18,1,0,0,Infeccion de vias respiratorias
 563,Honduras,9,Adulto Hombre,1,21,0,0,0,Infeccion de vias respiratorias
@@ -1011,7 +1011,7 @@
 1010,Honduras,9,Mujer Adulto,3,28,0,0,0,No
 1011,Honduras,9,Menor Hombre,2,9,1,0,0,No
 1012,Guatemala,8,Mujer Adulto,3,36,0,0,0,Infeccion de vias respiratorias
-1013,México,10,Adulto Hombre,1,25,0,0,0,Crisis ansiedad
+1013,MÃ©xico,10,Adulto Hombre,1,25,0,0,0,Crisis ansiedad
 1014,El Salvador,7,Adulto Hombre,1,44,0,0,0,No
 1015,Honduras,9,Adulto Hombre,1,22,0,0,0,No
 1016,Honduras,9,Mujer Adulto,3,26,0,0,0,Infeccion de vias respiratorias
@@ -1124,7 +1124,7 @@
 1123,Honduras,9,Adulto Hombre,1,24,0,0,0,Infeccion de vias respiratorias
 1124,Honduras,9,Adulto Hombre,1,22,0,0,0,No
 1125,Guatemala,8,Adulto Hombre,1,49,0,0,0,No
-1126,México,10,Adulto Hombre,1,42,0,0,0,Seguimiento Manejo Medico
+1126,MÃ©xico,10,Adulto Hombre,1,42,0,0,0,Seguimiento Manejo Medico
 1127,Honduras,9,Adulto Hombre,1,37,0,0,0,No
 1128,Honduras,9,Adulto Hombre,1,57,0,0,0,Lumbalgia
 1129,Honduras,9,Adulto Hombre,1,20,0,0,0,No
@@ -1933,7 +1933,7 @@
 1932,Guatemala,8,Adulto Hombre,1,28,0,0,0,Infeccion de vias respiratorias
 1933,Honduras,9,Adulto Hombre,1,22,0,0,0,No
 1934,Honduras,9,Adulto Hombre,1,20,0,0,0,No
-1935,México,10,Adulto Hombre,1,44,0,0,0,No
+1935,MÃ©xico,10,Adulto Hombre,1,44,0,0,0,No
 1936,Guatemala,8,Adulto Hombre,1,34,0,0,0,No
 1937,Honduras,9,Adulto Hombre,1,22,0,0,0,No
 1938,Honduras,9,Adulto Hombre,1,18,1,0,0,Infeccion de vias respiratorias
@@ -1941,7 +1941,7 @@
 1940,Honduras,9,Adulto Hombre,1,19,0,0,0,No
 1941,Honduras,9,Adulto Hombre,1,21,0,0,0,No
 1942,Honduras,9,Adulto Hombre,1,23,0,0,0,No
-1943,México,10,Adulto Hombre,1,26,0,0,0,No
+1943,MÃ©xico,10,Adulto Hombre,1,26,0,0,0,No
 1944,Honduras,9,Adulto Hombre,1,42,0,0,0,No
 1945,Honduras,9,Menor Hombre,2,17,1,0,0,No
 1946,Honduras,9,Adulto Hombre,1,28,0,0,0,No
@@ -1992,7 +1992,7 @@
 1991,Honduras,9,Adulto Hombre,1,24,0,0,0,No
 1992,Honduras,9,Adulto Hombre,1,36,0,0,0,No
 1993,Honduras,9,Adulto Hombre,1,32,0,0,0,No
-1994,México,10,Adulto Hombre,1,19,0,0,0,No
+1994,MÃ©xico,10,Adulto Hombre,1,19,0,0,0,No
 1995,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 1996,Honduras,9,Adulto Hombre,1,34,0,0,0,Infeccion de vias respiratorias
 1997,Guatemala,8,Adulto Hombre,1,48,0,0,0,Lesion en Pie
@@ -2338,7 +2338,7 @@
 2337,Honduras,9,Adulto Hombre,1,26,0,0,0,No
 2338,Honduras,9,Adulto Hombre,1,18,1,0,0,No
 2339,Honduras,9,Adulto Hombre,1,23,0,0,0,Fiebre
-2340,México,10,Adulto Hombre,1,40,0,0,0,Dolor Odontologico
+2340,MÃ©xico,10,Adulto Hombre,1,40,0,0,0,Dolor Odontologico
 2341,Honduras,9,Adulto Hombre,1,39,0,0,0,No
 2342,Honduras,9,Adulto Hombre,1,19,0,0,0,No
 2343,Honduras,9,Adulto Hombre,1,42,0,0,0,No
@@ -2727,9 +2727,9 @@
 2726,Honduras,9,Mujer Adulto,3,45,0,0,0,No
 2727,Guatemala,8,Adulto Hombre,1,18,1,0,0,No
 2728,Honduras,9,Mujer Adulto,3,35,0,0,0,No
-2729,México,10,Adulto Hombre,1,41,0,0,0,No
+2729,MÃ©xico,10,Adulto Hombre,1,41,0,0,0,No
 2730,Honduras,9,Menor Hombre,2,7,1,0,0,No
-2731,México,10,Menor Hombre,2,15,1,0,0,No
+2731,MÃ©xico,10,Menor Hombre,2,15,1,0,0,No
 2732,Honduras,9,Mujer Adulto,3,23,0,0,0,No
 2733,Honduras,9,Mujer Menor,4,3,1,1,0,No
 2734,Honduras,9,Adulto Hombre,1,58,0,0,0,No
@@ -2889,7 +2889,7 @@
 2888,Honduras,9,Adulto Hombre,1,24,0,0,0,No
 2889,Honduras,9,Mujer Adulto,3,33,0,0,0,No
 2890,Honduras,9,Adulto Hombre,1,27,0,0,0,No
-2891,México,10,Adulto Hombre,1,19,0,0,0,Infeccion de vias respiratorias
+2891,MÃ©xico,10,Adulto Hombre,1,19,0,0,0,Infeccion de vias respiratorias
 2892,Guatemala,8,Adulto Hombre,1,19,0,0,0,No
 2893,Honduras,9,Mujer Adulto,3,20,0,0,0,No
 2894,Honduras,9,Adulto Hombre,1,31,0,0,0,No
@@ -3181,11 +3181,11 @@
 3180,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 3181,Nicaragua,11,Adulto Hombre,1,33,0,0,0,No
 3182,Honduras,9,Adulto Hombre,1,28,0,0,0,No
-3183,México,10,Menor Hombre,2,5,1,1,0,No
+3183,MÃ©xico,10,Menor Hombre,2,5,1,1,0,No
 3184,Honduras,9,Mujer Menor,4,17,1,0,0,Diarrea
 3185,Honduras,9,Adulto Hombre,1,22,0,0,0,Infeccion de vias respiratorias
 3186,Honduras,9,Adulto Hombre,1,22,0,0,0,Infeccion de vias respiratorias
-3187,México,10,Menor Hombre,2,1,1,1,0,No
+3187,MÃ©xico,10,Menor Hombre,2,1,1,1,0,No
 3188,Honduras,9,Adulto Hombre,1,21,0,0,0,No
 3189,Honduras,9,Mujer Menor,4,17,1,0,0,Artralgias
 3190,Honduras,9,Adulto Hombre,1,18,1,0,0,No
@@ -3248,7 +3248,7 @@
 3247,Honduras,9,Adulto Hombre,1,18,1,0,0,No
 3248,Honduras,9,Adulto Hombre,1,49,0,0,0,Infeccion de vias respiratorias
 3249,Honduras,9,Adulto Hombre,1,21,0,0,0,No
-3250,México,10,Adulto Hombre,1,25,0,0,0,No
+3250,MÃ©xico,10,Adulto Hombre,1,25,0,0,0,No
 3251,Honduras,9,Adulto Hombre,1,42,0,0,0,No
 3252,Honduras,9,Adulto Hombre,1,21,0,0,0,No
 3253,Honduras,9,Adulto Hombre,1,21,0,0,0,No
@@ -3290,7 +3290,7 @@
 3289,Honduras,9,Adulto Hombre,1,22,0,0,0,No
 3290,Honduras,9,Mujer Adulto,3,36,0,0,0,No
 3291,Honduras,9,Mujer Adulto,3,24,0,0,0,No
-3292,México,10,Adulto Hombre,1,41,0,0,0,No
+3292,MÃ©xico,10,Adulto Hombre,1,41,0,0,0,No
 3293,Honduras,9,Adulto Hombre,1,38,0,0,0,No
 3294,El Salvador,7,Adulto Hombre,1,31,0,0,0,Infeccion de vias respiratorias
 3295,Honduras,9,Adulto Hombre,1,27,0,0,0,No
@@ -3366,7 +3366,7 @@
 3365,Honduras,9,Adulto Hombre,1,48,0,0,0,No
 3366,Honduras,9,Adulto Hombre,1,23,0,0,0,Infeccion de vias respiratorias
 3367,Guatemala,8,Adulto Hombre,1,27,0,0,0,Infeccion de vias respiratorias
-3368,México,10,Adulto Hombre,1,31,0,0,0,No
+3368,MÃ©xico,10,Adulto Hombre,1,31,0,0,0,No
 3369,Honduras,9,Adulto Hombre,1,56,0,0,0,HAS
 3370,Honduras,9,Mujer Adulto,3,35,0,0,0,Infeccion de vias respiratorias
 3371,Honduras,9,Adulto Hombre,1,29,0,0,0,No
@@ -3381,13 +3381,13 @@
 3380,Honduras,9,Adulto Hombre,1,19,0,0,0,No
 3381,Honduras,9,Adulto Hombre,1,36,0,0,0,No
 3382,Honduras,9,Menor Hombre,2,16,1,0,0,No
-3383,México,10,Adulto Hombre,1,32,0,0,0,No
+3383,MÃ©xico,10,Adulto Hombre,1,32,0,0,0,No
 3384,Honduras,9,Menor Hombre,2,17,1,0,0,No
 3385,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 3386,Honduras,9,Adulto Hombre,1,18,1,0,0,No
 3387,Honduras,9,Mujer Adulto,3,58,0,0,0,No
 3388,Guatemala,8,Adulto Hombre,1,25,0,0,0,No
-3389,México,10,Adulto Hombre,1,19,0,0,0,No
+3389,MÃ©xico,10,Adulto Hombre,1,19,0,0,0,No
 3390,Honduras,9,Menor Hombre,2,15,1,0,0,No
 3391,Honduras,9,Adulto Hombre,1,24,0,0,0,No
 3392,Honduras,9,Menor Hombre,2,15,1,0,0,No
@@ -3395,7 +3395,7 @@
 3394,Honduras,9,Adulto Hombre,1,23,0,0,0,No
 3395,Honduras,9,Adulto Hombre,1,18,1,0,0,No
 3396,Honduras,9,Adulto Hombre,1,21,0,0,0,No
-3397,México,10,Adulto Hombre,1,21,0,0,0,Infeccion de vias respiratorias
+3397,MÃ©xico,10,Adulto Hombre,1,21,0,0,0,Infeccion de vias respiratorias
 3398,Honduras,9,Adulto Hombre,1,23,0,0,0,Gastritis
 3399,El Salvador,7,Adulto Hombre,1,37,0,0,0,No
 3400,El Salvador,7,Mujer Menor,4,7,1,0,0,No
@@ -3588,7 +3588,7 @@
 3587,Honduras,9,Menor Hombre,2,7,1,0,0,No
 3588,Honduras,9,Mujer Menor,4,17,1,0,0,No
 3589,Honduras,9,Mujer Adulto,3,18,1,0,0,No
-3590,México,10,Adulto Hombre,1,18,1,0,0,No
+3590,MÃ©xico,10,Adulto Hombre,1,18,1,0,0,No
 3591,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 3592,Honduras,9,Adulto Hombre,1,21,0,0,0,No
 3593,Honduras,9,Adulto Hombre,1,22,0,0,0,No
@@ -3680,7 +3680,7 @@
 3679,Honduras,9,Adulto Hombre,1,18,1,0,0,No
 3680,Honduras,9,Adulto Hombre,1,29,0,0,0,No
 3681,Honduras,9,Adulto Hombre,1,22,0,0,0,No
-3682,México,10,Menor Hombre,2,0,0,1,0,Otitis Media Aguda Supurativa
+3682,MÃ©xico,10,Menor Hombre,2,0,0,1,0,Otitis Media Aguda Supurativa
 3683,Honduras,9,Menor Hombre,2,17,1,0,0,No
 3684,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 3685,El Salvador,7,Adulto Hombre,1,25,0,0,0,No
@@ -3761,7 +3761,7 @@
 3760,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 3761,Honduras,9,Mujer Adulto,3,23,0,0,0,No
 3762,Honduras,9,Mujer Adulto,3,20,0,0,0,No
-3763,México,10,Adulto Hombre,1,33,0,0,0,No
+3763,MÃ©xico,10,Adulto Hombre,1,33,0,0,0,No
 3764,Honduras,9,Mujer Menor,4,17,1,0,0,No
 3765,Honduras,9,Mujer Adulto,3,41,0,0,0,No
 3766,Honduras,9,Menor Hombre,2,17,1,0,0,No
@@ -3802,7 +3802,7 @@
 3801,Honduras,9,Adulto Hombre,1,40,0,0,0,Lesion en Pie
 3802,Honduras,9,Adulto Hombre,1,32,0,0,0,No
 3803,Honduras,9,Adulto Hombre,1,29,0,0,0,No
-3804,México,10,Adulto Hombre,1,21,0,0,0,No
+3804,MÃ©xico,10,Adulto Hombre,1,21,0,0,0,No
 3805,Honduras,9,Mujer Adulto,3,23,0,0,0,No
 3806,Honduras,9,Mujer Adulto,3,24,0,0,0,No
 3807,Guatemala,8,Adulto Hombre,1,20,0,0,0,No
@@ -3876,7 +3876,7 @@
 3875,Honduras,9,Adulto Hombre,1,19,0,0,0,Infeccion de vias respiratorias
 3876,Honduras,9,Mujer Adulto,3,43,0,0,0,Infeccion de vias respiratorias
 3877,Honduras,9,Mujer Adulto,3,22,0,0,0,No
-3878,México,10,Adulto Hombre,1,27,0,0,0,No
+3878,MÃ©xico,10,Adulto Hombre,1,27,0,0,0,No
 3879,Honduras,9,Mujer Menor,4,2,1,1,0,No
 3880,Honduras,9,Adulto Hombre,1,35,0,0,0,No
 3881,Honduras,9,Adulto Hombre,1,25,0,0,0,No
@@ -3949,7 +3949,7 @@
 3948,Honduras,9,Mujer Adulto,3,26,0,0,0,No
 3949,Honduras,9,Adulto Hombre,1,21,0,0,0,No
 3950,Honduras,9,Menor Hombre,2,7,1,0,0,No
-3951,México,10,Adulto Hombre,1,56,0,0,0,No
+3951,MÃ©xico,10,Adulto Hombre,1,56,0,0,0,No
 3952,Honduras,9,Adulto Hombre,1,24,0,0,0,No
 3953,Honduras,9,Adulto Hombre,1,18,1,0,0,No
 3954,Honduras,9,Mujer Menor,4,1,1,1,0,No
@@ -4050,7 +4050,7 @@
 4049,Guatemala,8,Mujer Adulto,3,37,0,0,0,No
 4050,Honduras,9,Adulto Hombre,1,29,0,0,0,Lesion en Pie
 4051,Honduras,9,Menor Hombre,2,5,1,1,0,No
-4052,México,10,Mujer Menor,4,0,0,1,0,No
+4052,MÃ©xico,10,Mujer Menor,4,0,0,1,0,No
 4053,Guatemala,8,Mujer Menor,4,1,1,1,0,No
 4054,Honduras,9,Menor Hombre,2,4,1,1,0,No
 4055,Honduras,9,Adulto Hombre,1,37,0,0,0,No
@@ -4105,7 +4105,7 @@
 4104,Honduras,9,Mujer Adulto,3,30,0,0,0,Infeccion de vias respiratorias
 4105,Honduras,9,Adulto Hombre,1,21,0,0,0,Infeccion de vias respiratorias
 4106,Guatemala,8,Mujer Adulto,3,19,0,0,0,Infeccion de vias respiratorias
-4107,México,10,Mujer Adulto,3,40,0,0,0,No
+4107,MÃ©xico,10,Mujer Adulto,3,40,0,0,0,No
 4108,Honduras,9,Mujer Adulto,3,25,0,0,0,No
 4109,Honduras,9,Mujer Menor,4,4,1,1,0,Infeccion de vias respiratorias
 4110,Honduras,9,Adulto Hombre,1,23,0,0,0,No
@@ -4580,7 +4580,7 @@
 4579,Honduras,9,Adulto Hombre,1,34,0,0,0,No
 4580,Honduras,9,Adulto Hombre,1,20,0,0,0,No
 4581,Honduras,9,Adulto Hombre,1,18,1,0,0,No
-4582,México,10,Adulto Hombre,1,33,0,0,0,No
+4582,MÃ©xico,10,Adulto Hombre,1,33,0,0,0,No
 4583,Honduras,9,Adulto Hombre,1,16,1,0,0,Infeccion de vias respiratorias
 4584,Honduras,9,Adulto Hombre,1,36,0,0,0,No
 4585,Honduras,9,Adulto Hombre,1,36,0,0,0,No
@@ -4609,7 +4609,7 @@
 4608,Guatemala,8,Menor Hombre,2,17,1,0,0,No
 4609,Honduras,9,Adulto Hombre,1,36,0,0,0,No
 4610,Chile,3,Mujer Menor,4,6,1,0,0,No
-4611,México,10,Adulto Hombre,1,47,0,0,0,No
+4611,MÃ©xico,10,Adulto Hombre,1,47,0,0,0,No
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
